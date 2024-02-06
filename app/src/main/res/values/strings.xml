@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">Travelling</string>
     <string name="welcome_to_travelling">Welcome to Travelling!</string>
+    <string name="next">Next</string>
+    <string name="tu_app_de_viajes">Tu App de Viajes</string>
+    <string name="desc_app_viajes">Hola, estamos buscando a millones de usuarios con inquietudes y ganas de viajar. Si eres tú, no dudes! Accede a nuestra app y descubrirás miles de destinos y facilidades para alquilar coches, ver el tiempo...</string>
+    <string name="nomads_moto">Nomads Moto</string>
+    <string name="upcoming_meetups">Upcoming meetups</string>
+    <string name="camera_button">Camera button</string>
+    <string name="heart_button">Heart Button</string>
+    <string name="landscape_button">Landscape button</string>
+    <string name="face_button">Face Button</string>
+    <string name="usa_los_angeles_2_weeks">USA, Los Angeles - 2 Weeks</string>
+    <string name="maldives_3_weeks">Maldives - 3 weeks</string>
+    <string name="beach_vacation">Beach vacation</string>
+    <string name="city_of_los_angeles">City of Los Angeles</string>
 </resources>
